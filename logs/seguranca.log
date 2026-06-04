@@ -1,0 +1,30 @@
+[INFO] Iniciando configuração de segurança...
+[INFO] O grupo 'pm_ops' já existe.
+[INFO] O usuário 'scrum_master' já existe.
+[OK] Permissões aplicadas: Dono 'scrum_master', Grupo 'pm_ops', Acesso restrito 770 na pasta '/app/logs_gestao_projetos'.
+
+[SUCESSO] Configuração de segurança finalizada com sucesso!
+[INFO] Iniciando configuração de segurança...
+[OK] Grupo 'pm_ops' criado com sucesso.
+[OK] Usuário 'scrum_master' criado e adicionado ao grupo 'pm_ops'.
+[OK] Permissões aplicadas: Dono 'scrum_master', Grupo 'pm_ops', Acesso restrito 770 na pasta '/app/logs_gestao_projetos'.
+
+[SUCESSO] Configuração de segurança finalizada com sucesso!
+[INFO] Iniciando configuração de segurança...
+[OK] Grupo 'pm_ops' criado com sucesso.
+[OK] Usuário 'scrum_master' criado e adicionado ao grupo 'pm_ops'.
+[OK] Permissões aplicadas: Dono 'scrum_master', Grupo 'pm_ops', Acesso restrito 770 na pasta '/app/logs_gestao_projetos'.
+
+[SUCESSO] Configuração de segurança finalizada com sucesso!
+[INFO] Iniciando configuração de segurança...
+[INFO] O grupo 'pm_ops' já existe.
+[INFO] O usuário 'scrum_master' já existe.
+[OK] Permissões aplicadas: Dono 'scrum_master', Grupo 'pm_ops', Acesso restrito 770 na pasta '/app/logs_gestao_projetos'.
+
+[SUCESSO] Configuração de segurança finalizada com sucesso!
+[INFO] Iniciando configuração de segurança...
+[INFO] O grupo 'pm_ops' já existe.
+[INFO] O usuário 'scrum_master' já existe.
+[OK] Permissões aplicadas: Dono 'scrum_master', Grupo 'pm_ops', Acesso restrito 770 na pasta '/app/logs_gestao_projetos'.
+
+[SUCESSO] Configuração de segurança finalizada com sucesso!

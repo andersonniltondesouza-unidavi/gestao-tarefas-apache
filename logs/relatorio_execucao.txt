@@ -1,0 +1,47 @@
+==================================================
+      RELATORIO OPERACIONAL                       
+==================================================
+Data/Hora de Emissao : 2026-06-04 21:55:49
+Aluno(a)             : ANDERSON NILTON DE SOUZA
+Matricula            : 1031186
+Disciplina           : CLOUD COMPUTING
+Tema                 : Gestao de Tarefas e Projetos
+==================================================
+
+[STATUS DO SERVIDOR WEB]
+Apache2 a correr normalmente.
+
+[USO DE ESPACO EM DISCO]
+Filesystem             Size  Used Avail Use% Mounted on
+overlay                225G   49G  165G  23% /
+
+[VOLUMES E DIRETORIOS ATIVOS]
+total 16
+drwxrwx--- 1 scrum_master pm_ops 4096 Jun  4 21:22 .
+drwxr-xr-x 1 root         root   4096 Jun  4 20:44 ..
+-rwxrwx--- 1 scrum_master pm_ops  216 Jun  4 21:54 historico_atividades.log
+
+[ULTIMOS BACKUPS GERADOS]
+-rw-r--r-- 1 root root 316 Jun  4 18:56 /app/backups/backup_gestao_tarefas_2026-06-04_18-06.tar.gz
+-rw-r--r-- 1 root root 315 Jun  4 19:54 /app/backups/backup_gestao_tarefas_2026-06-04_19-06.tar.gz
+-rw-r--r-- 1 root root 177 Jun  4 21:08 /app/backups/backup_logs_tarefas_20260604_210822.tar.gz
+-rw-r--r-- 1 root root 172 Jun  4 21:17 /app/backups/backup_logs_tarefas_20260604_211755.tar.gz
+-rw-r--r-- 1 root root 173 Jun  4 21:22 /app/backups/backup_logs_tarefas_20260604_212232.tar.gz
+-rw-r--r-- 1 root root 173 Jun  4 21:22 /app/backups/backup_logs_tarefas_20260604_212241.tar.gz
+-rw-r--r-- 1 root root 323 Jun  4 21:29 /app/backups/backup_logs_tarefas_20260604_212956.tar.gz
+-rw-r--r-- 1 root root 324 Jun  4 21:54 /app/backups/backup_logs_tarefas_20260604_215456.tar.gz
+
+[HISTORICO RECENTE DE LOGS]
+-rw-r--r-- 1 root root   832 Jun  4 21:54 /app/logs/apache.log
+-rw-r--r-- 1 root root 28240 Jun  4 21:23 /app/logs/apache_access.log
+-rw-r--r-- 1 root root     0 Jun  4 18:55 /app/logs/apache_error.log
+-rw-r--r-- 1 root root  1026 Jun  4 21:54 /app/logs/backup.log
+-rw-r--r-- 1 root root   770 Jun  4 21:54 /app/logs/deploy.log
+-rw-r--r-- 1 root root  1183 Jun  4 21:54 /app/logs/estrutura.log
+-rw-r--r-- 1 root root   584 Jun  4 21:55 /app/logs/monitoramento.log
+-rw-r--r-- 1 root root  1639 Jun  4 21:55 /app/logs/seguranca.log
+-rw-r--r-- 1 root root 21672 Jun  4 21:54 /app/logs/update.log
+
+[PERMISSOES E USUARIOS DA APLICACAO]
+pm_ops:x:1000:
+scrum_master:x:1000:1000::/home/scrum_master:/bin/bash

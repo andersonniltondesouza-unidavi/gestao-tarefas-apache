@@ -1,0 +1,12 @@
+[SUCESSO] Backup gerado com sucesso: backup_gestao_tarefas_2026-06-04_18-06.tar.gz
+[OK] Arquivo existe no destino e esta pronto para armazenamento.
+[SUCESSO] Backup gerado com sucesso: backup_gestao_tarefas_2026-06-04_19-06.tar.gz
+[OK] Arquivo existe no destino e esta pronto para armazenamento.
+[ERRO] Diretorio de origem (/app/gestao_projetos) nao encontrado. Abortando.
+[ERRO] Diretorio de origem (/app/gestao_projetos) nao encontrado. Abortando.
+[SUCESSO] Backup gerado com sucesso: backup_logs_tarefas_20260604_210822.tar.gz em /app/backups
+[SUCESSO] Backup gerado com sucesso: backup_logs_tarefas_20260604_211755.tar.gz em /app/backups
+[SUCESSO] Backup gerado com sucesso: backup_logs_tarefas_20260604_212232.tar.gz em /app/backups
+[SUCESSO] Backup gerado com sucesso: backup_logs_tarefas_20260604_212241.tar.gz em /app/backups
+[SUCESSO] Backup gerado com sucesso: backup_logs_tarefas_20260604_212956.tar.gz em /app/backups
+[SUCESSO] Backup gerado com sucesso: backup_logs_tarefas_20260604_215456.tar.gz em /app/backups
